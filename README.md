@@ -35,6 +35,7 @@ cp -Rf tmux/* ~/tmux/
 https://github.com/romkatv/powerlevel10k#how-was-the-recommended-font-created
 
 **WSL :**
+
 Install Powerline, Windows compatible font from this repo https://github.com/ryanoasis/nerd-fonts. You need to install version 1.2.0 since version 2.0.0 don't work with Windows.
 
 Download this asset https://github.com/ryanoasis/nerd-fonts/releases/download/v1.2.0/DejaVuSansMono.zip. Unzip file and install the DejaVu Sans Mono for Powerline Nerd Font Complete Mono Windows Compatible.ttf font by right-clicking on the file and select install.
